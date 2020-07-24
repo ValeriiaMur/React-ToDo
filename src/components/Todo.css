@@ -1,0 +1,13 @@
+.completed {
+    color: red;
+    text-decoration: line-through;
+}
+
+.clear-tasks{
+    background-color:#0073b1;
+    margin: 0 5%;
+}
+
+.bttns{
+    display: flex;
+}
